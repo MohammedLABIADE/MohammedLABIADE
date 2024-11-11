@@ -40,7 +40,27 @@ body
     color: #fff;
     text-transform: uppercase;
 }
-#bst {font-size: 20px;border: none;background-color: transparent;}
+#bst {font-size: 30px;border: none;background-color: transparent;}
+a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
+}
 
 .header-text .vertical-line
 {
