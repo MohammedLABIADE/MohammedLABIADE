@@ -53,7 +53,7 @@ a:visited {
   text-decoration: none;
 }
 a:hover {
-  color: aliceblue;
+  color: grey;
   background-color: transparent;
   text-decoration: none;
 }
