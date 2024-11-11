@@ -40,6 +40,7 @@ body
     color: #fff;
     text-transform: uppercase;
 }
+#bst {font-size: 20px;border: none;background-color: transparent;}
 
 .header-text .vertical-line
 {
@@ -359,7 +360,7 @@ footer .copyright
 body
 {
     font-family: 'Lato', sans-serif;
-    color: #41484b;
+    color: #41484b;overflow-y: hidden;
 }
 
 
