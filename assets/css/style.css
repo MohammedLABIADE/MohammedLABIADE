@@ -40,7 +40,8 @@ body
     color: #fff;
     text-transform: uppercase;
 }
-#bst {font-size: 30px;border: none;background-color: transparent;}
+
+#bst {font-size: 30px;border: none;background-color: transparent;padding: 10px;}
 a:link {
   color: black;
   background-color: transparent;
